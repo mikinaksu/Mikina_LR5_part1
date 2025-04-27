@@ -1,5 +1,5 @@
-#ifndef _SURNAME_MATHTASK_H_
-#define _SURNAME_MATHTASK_H_
+#ifndef _MIKINA_MATHTASK_H_
+#define _MIKINA_MATHTASK_H_
 
 #include <string>
 using namespace std;

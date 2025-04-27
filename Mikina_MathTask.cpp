@@ -3,7 +3,7 @@
 using namespace std; 
 int main() 
 {
-    int NumberA = O, NumberB = 0;
+    int NumberA = 0, NumberB = 0;
     //ввод переменной А 
     EnterDigit(NumberA,"input height A") ;
     //ввод переменной В 
